@@ -338,12 +338,7 @@ public class Main {
         // a yoki b 7 ga teng
         // yoki yig'indisi 7
         // yoki farqi 7
-        if (a == 7 ||
-                b == 7 ||
-                a + b == 7 ||
-                a - b == 7 ||
-                b - a == 7) {
-
+        if (a == 7 || b == 7 || a + b == 7 || a - b == 7 || b - a == 7) {
             System.out.print("true");
         } else {
             System.out.print("false");
